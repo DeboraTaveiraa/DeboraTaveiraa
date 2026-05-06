@@ -66,15 +66,3 @@ My background in development allows me to work with a **gray-box testing approac
 ## 📊 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeboraTaveiraa&layout=compact&theme=tokyonight)
-
-
-## 🎯 Current Focus
-
-- Improving skills in **test automation**
-- Deepening knowledge in **QA processes and strategies**
-- Building **QA portfolio projects**
-
-
-## 💡 Fun fact
-
-I love solving problems, finding bugs 🐞 and improving user experience 🚀
