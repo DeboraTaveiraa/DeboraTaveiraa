@@ -61,8 +61,3 @@ My background in development allows me to work with a **gray-box testing approac
 ![ClickUp](https://img.shields.io/badge/ClickUp-7B68EE?style=flat)
 ![Scrum](https://img.shields.io/badge/Scrum-Agile-blue?style=flat)
 ![Kanban](https://img.shields.io/badge/Kanban-Workflow-green?style=flat)
-
-
-## 📊 GitHub Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeboraTaveiraa&layout=compact&theme=tokyonight)
